@@ -1,7 +1,7 @@
 onlycouples
 ============
 
-A Program to filter any line that doesn't consest of couple characters utilising input and output streams.
+A Program to filter any line that doesn't consist of a stream of couple characters, utilizing input and output streams.
 
 Building
 ---------
